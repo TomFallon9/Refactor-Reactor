@@ -65,13 +65,13 @@ a {
 }
 
 /* CSS for second section for the start of the main content */
-.contentsection {
+.contentSection {
    width: 75%;
    display: inline-block;
    margin-left: 20px;
 }
 
-.contentblock {
+.contentBlock {
    margin-bottom: 20px;
    padding: 50px;
    height: 300px;
@@ -84,7 +84,7 @@ a {
    max-height: 200px;
 }
 
-.contentblock h2 {
+.contentBlock h2 {
    margin-bottom: 20px;
    font-size: 36px;
 }
