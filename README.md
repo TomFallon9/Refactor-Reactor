@@ -5,7 +5,7 @@ For this project our class was asked to take the following code and refactor the
 - alt attributes added to images
 - heading attribues follow sequential order
 - nav bar links now work correctly directing user to correct location on page
-- CSS classes reworded/consolidated for developer readability
+- CSS classes reworded and consolidated for code readability
 
 ## Links
 Website:https://tomfallon9.github.io/Refactor-Reactor/
