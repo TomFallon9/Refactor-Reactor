@@ -1,5 +1,5 @@
 ## Description 
-For this project our class was asked to take the following code and refactor the page to make it more accessible for the user. Below are the updates that were made
+For this project our class was asked to take the following code and refactor the page to make it more accessible for the user. Below are the updates that were made;
 
 - HTML now has semantic elements that follow a logical structure
 - alt attributes added to images
