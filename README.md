@@ -17,9 +17,9 @@ For this project our class was asked to take the following code and refactor the
 - CSS classes reworded and consolidated for code readability
 
 ## Links
-[Website]https://tomfallon9.github.io/Refactor-Reactor/
+[Website] https://tomfallon9.github.io/Refactor-Reactor/
 
-[Github]https://github.com/TomFallon9/Refactor-Reactor
+[Github] https://github.com/TomFallon9/Refactor-Reactor
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/75281680/101998883-36b47a80-3ca5-11eb-849f-3e574b79ebcf.png)
